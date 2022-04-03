@@ -1,4 +1,3 @@
-//Progression 1 - create a Manager array and return it
 let managerName = "Alex Ferguson";
 let managerAge = 78;
 let currentTeam = "Manchester FC";
@@ -7,6 +6,7 @@ let trophiesWon = 27;
 //Write your function here
 
 // Don't edit the following code
+
 try {
   var manager = createManager(
     managerName,
